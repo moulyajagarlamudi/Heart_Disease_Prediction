@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction using Machine Learning
 
-## 📌 Project Overview
+## Project Overview
 This project predicts the likelihood of heart disease in a patient based on health parameters such as age, blood pressure, cholesterol, and more.  
 It uses **Logistic Regression** (a classification algorithm) to train a machine learning model and evaluate its performance.  
 
@@ -11,7 +11,7 @@ The project demonstrates:
 - Model evaluation with accuracy, confusion matrix, and classification report  
 
 
-## 📊 Dataset
+## Dataset
 The dataset for this project was taken from **Kaggle**:  
 👉 [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)  
 
@@ -19,7 +19,7 @@ The dataset for this project was taken from **Kaggle**:
 - Features: **14 health attributes**  
 - Target: Presence (1) or Absence (0) of heart disease  
 
-### 🔹 Feature Information
+### Feature Information
 | Feature   | Description |
 |-----------|-------------|
 | age       | Age of the patient |
@@ -38,7 +38,7 @@ The dataset for this project was taken from **Kaggle**:
 | target    | 1 = Heart disease present, 0 = No heart disease |
 
 
-## 🚀 Technologies Used
+## Technologies Used
 - Python  
 - Pandas, NumPy (data processing)  
 - Matplotlib, Seaborn (visualizations)  
@@ -46,7 +46,7 @@ The dataset for this project was taken from **Kaggle**:
 - Jupyter Notebook  
 
 
-## 🛠️ How to Run the Project
+## How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/moulyajagarlamudi/Heart_Disease_Prediction.git
